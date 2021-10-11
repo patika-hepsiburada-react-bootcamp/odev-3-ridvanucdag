@@ -1,1 +1,3 @@
-## HEPSİBURADA BOOTCAMP ÖDEV 3 
+# Rıdvan ÜÇDAĞ HepsiBurada Ödev3
+
+![](client/src/yabancıdizi.jpg)
